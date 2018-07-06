@@ -7,4 +7,4 @@ function nestedTarget() {
 }
 
 function deepestChild()
-let node = getElementbyID
+let node = getElementbyID('grand-node')
