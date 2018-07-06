@@ -8,3 +8,4 @@ function nestedTarget() {
 
 function deepestChild()
 let node = getElementbyID('grand-node')
+let Nextnode = node.children[0]
