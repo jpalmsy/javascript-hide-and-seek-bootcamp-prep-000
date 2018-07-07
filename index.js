@@ -25,7 +25,7 @@ function increaseRankBy() {
     let children = rankslist[i].children 
   
   for (j = 0, k = children.length; j < k; j++) {
-  children[j].innerhtml = parseInt(children[j].innerhtml]) + n
+  children[j].innerhtml = parseInt(children[j].innerhtml) + n
   }
 }
 }
