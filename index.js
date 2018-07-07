@@ -18,6 +18,6 @@ function deepestChild() {
   return node
 }
 
-increaseRankBy() {
-  const rank-list = 
+function increaseRankBy() {
+  const ranks = document.querySelector('.ranked-list')
 }
