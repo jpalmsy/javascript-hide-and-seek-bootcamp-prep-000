@@ -20,4 +20,6 @@ function deepestChild() {
 
 function increaseRankBy() {
   const ranks = document.querySelector('.ranked-list')
+  
+  for 
 }
