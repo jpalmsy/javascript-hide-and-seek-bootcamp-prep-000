@@ -17,3 +17,7 @@ function deepestChild() {
 
   return node
 }
+
+increaseRankBy() {
+  const
+}
