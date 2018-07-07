@@ -25,4 +25,7 @@ function increaseRankBy() {
   
   for (j = 0, k = children.length; j < k; j++)
   children[j].innerhtml = parseInt(children[j.innerhtml]) + n
+  }
 }
+}
+
