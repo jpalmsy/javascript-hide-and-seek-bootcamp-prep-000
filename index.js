@@ -19,5 +19,5 @@ function deepestChild() {
 }
 
 increaseRankBy() {
-  const
+  const rank-list = 
 }
